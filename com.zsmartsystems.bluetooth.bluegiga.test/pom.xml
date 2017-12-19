@@ -8,14 +8,14 @@
     <parent>
         <groupId>com.zsmartsystems.bluetooth.bluegiga</groupId>
         <artifactId>bluegiga</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.1</version>
     </parent>
 
     <dependencies>
         <dependency>
             <groupId>com.zsmartsystems.bluetooth.bluegiga</groupId>
             <artifactId>com.zsmartsystems.bluetooth.bluegiga</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
 

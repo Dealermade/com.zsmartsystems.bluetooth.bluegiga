@@ -17,3 +17,12 @@ RemoteSystemsTempFiles/
 travis.yml
 settings.xml
 com.zsmartsystems.bluetooth.bluegiga/doc
+
+
+.vscode
+.settings
+.classpath
+.project
+target
+settings.xml
+.idea

@@ -4,7 +4,7 @@
 
     <groupId>com.zsmartsystems.bluetooth.bluegiga</groupId>
     <artifactId>bluegiga</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -32,9 +32,9 @@
 
     <distributionManagement>
         <repository>
-            <id>bintray-zsmartsystems-com.zsmartsystems.bluetooth.bluegiga</id>
-            <name>zsmartsystems-com.zsmartsystems.bluetooth.bluegiga</name>
-            <url>https://api.bintray.com/maven/zsmartsystems/maven/com.zsmartsystems.bluetooth.bluegiga/;publish=1;</url>
+            <id>bintray-dealermade-maven</id> 
+            <name>dealermade-maven</name> 
+            <url>https://api.bintray.com/maven/dealermade/maven/com.zsmartsystems.bluetooth.bluegiga/;publish=1</url>
         </repository>
     </distributionManagement>
 
